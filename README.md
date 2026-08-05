@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 ### now
-- 🔨 building small things, learning out loud
-- 📚 learning to build with AI and actually make money from it
+- 🔨 shipping things and breaking more
+- 📚 figuring out how to actually make money with AI
 - 🌱 eventually: stuff that pays for itself while I sleep
-
+  
 ### stack
 <p>
   <img src="https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" />
@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 
 ### when I'm not shipping
 🎮 league · poe 1/2 · last epoch · 📺 anime · 🎵 lo-fi & everything else
+
+<a href="https://github.com/ryanleonduty">
+  <img src="https://img.shields.io/badge/view_profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
