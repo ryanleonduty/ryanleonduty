@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ### now
 🔨 shipping things and breaking more
+
 📚 figuring out how to actually make money with AI
+
 🌱 eventually: stuff that pays for itself while I sleep
   
 ### stack
