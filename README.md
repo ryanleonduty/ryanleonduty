@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 </p>
 
 ### when I'm not shipping
-🎮 league · poe 1/2 · last epoch · 📺 anime · 🎵 lo-fi & everything else
+🎮 league · poe 1/2 · last epoch 
+
+📺 anime 
+
+🎵 lo-fi & everything else
 
 ### find me
 ✉️ [fill@later.zzz](mailto:fill@later.zzz)
