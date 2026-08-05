@@ -2,8 +2,8 @@
 
 ## hey, Ryan 👋
 
-shipping AI tools and digital products. solo founder, mostly
-breaking things until they stop breaking.
+shipping AI tools and digital products. solo founder, 
+mostly breaking things until they stop breaking.
 
 </div>
 
