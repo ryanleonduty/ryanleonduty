@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+
+## hey, Ryan 👋
+
+shipping AI tools and digital products. solo founder, mostly
+breaking things until they stop breaking.
+
+</div>
 
 <!--
 **ryanleonduty/ryanleonduty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
