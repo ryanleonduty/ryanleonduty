@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 ### when I'm not shipping
 🎮 league · poe 1/2 · last epoch · 📺 anime · 🎵 lo-fi & everything else
 
-<a href="https://github.com/ryanleonduty">
-  <img src="https://img.shields.io/badge/view_profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### find me
+𝕏 [@ryanleonduty](https://x.com/ryanleonduty) · ✉️ [hey@ryanle.dev](mailto:hey@ryanle.dev)
