@@ -2,8 +2,7 @@
 
 ## hey, Ryan 👋
 
-shipping AI tools and digital products. solo founder, 
-mostly breaking things until they stop breaking.
+shipping AI tools and digital products. solo founder, mostly breaking things until they stop breaking.
 
 </div>
 
@@ -26,6 +25,15 @@ Here are some ideas to get you started:
 - 🔨 building small things, learning out loud
 - 📚 learning to build with AI and actually make money from it
 - 🌱 eventually: stuff that pays for itself while I sleep
+
+### stack
+<p>
+  <img src="https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Warp-01A4FF?logo=warp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Hermes-7C3AED?logo=hermes&logoColor=white&style=flat-square" />
+</p>
 
 ### when I'm not shipping
 🎮 league · poe 1/2 · last epoch · 📺 anime · 🎵 lo-fi & everything else
