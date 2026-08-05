@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 🎮 league · poe 1/2 · last epoch · 📺 anime · 🎵 lo-fi & everything else
 
 ### find me
-𝕏 [@ryanleisme](https://x.com/ryanleisme) · ✉️ [hey@ryanle.dev](mailto:hey@ryanle.dev)
+✉️ [fill@later.zzz](mailto:fill@later.zzz)
