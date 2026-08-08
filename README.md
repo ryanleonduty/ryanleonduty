@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 🎵 lo-fi & everything else
 
 ### find me
-✉️ [fill@later.zzz](mailto:fill@later.zzz)
+✉️ [fill@later.xyz](mailto:fill@later.xyz)
